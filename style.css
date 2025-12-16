@@ -1,0 +1,36 @@
+*{font-family:Georgia, 'Times New Roman', Times, serif;}
+.Titulo{
+font-size: 76px;
+color:seagreen;
+display: flex;
+justify-content: center;
+}
+.Juegos{
+    font-size: 46px;
+color:rgb(122, 219, 236);
+font-family: monospace;
+}
+.Nada{
+    border-radius: 60px;
+    padding-top: 9px;
+    padding-left: 6px;
+    padding-bottom: 9px;
+    padding-right: 6px;
+    background-color: blue;
+    color: aquamarine;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.boton{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
